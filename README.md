@@ -11,5 +11,5 @@ The display used for this development was from eBay.
 https://www.ebay.ca/itm/128x88-pixel-4-level-grayscale-I2C-LCD-UC1617-with-backlight-for-Arduino-NEW-/292654810960
 
 The display was also available on https://www.hobbielektronika.hu/apro/apro_111585.html, be appears there no longer.
-A copy of tThe zip bundle from that site is kept here. That bundle included an Arduino sketch which was used to develop this library.
+A copy of the zip bundle from that site is kept here. That bundle included an Arduino sketch which was used to develop this library. The bundle also includes datasheets for the circuits on the LCD display board.
 
