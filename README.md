@@ -10,6 +10,7 @@ Since GDRAM can be read, no display buffer is needed. Pixels are packed and unpa
 The display used for this development was from eBay.
 https://www.ebay.ca/itm/128x88-pixel-4-level-grayscale-I2C-LCD-UC1617-with-backlight-for-Arduino-NEW-/292654810960
 
+![image](https://user-images.githubusercontent.com/31147085/77274529-bf087080-6c7b-11ea-8059-7666b7c83363.png)
+
 The display was also available on https://www.hobbielektronika.hu/apro/apro_111585.html, be appears there no longer.
 A copy of the zip bundle from that site is kept here. That bundle included an Arduino sketch which was used to develop this library. The bundle also includes datasheets for the circuits on the LCD display board.
-
